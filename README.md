@@ -8,7 +8,6 @@ A simple Flutter app to manage tasks with features like adding, editing, deletin
 - Edit and update existing tasks
 - Mark tasks as complete/incomplete
 - Delete tasks with one click
-- Beautiful UI with smooth animations
 - State management with Provider
 
 ## 💻 Built With
